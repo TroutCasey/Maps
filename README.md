@@ -4,4 +4,4 @@
 
 - [HUC8 Area-Weighted PHWA Scores - All PHWA Indices (Jenks)](https://troutcasey.github.io/Maps/HUC8_PHWA_all_indices_jenks.html)
 
-- [Compare IWI/PHWA Jenk Categories by Watershed](https://troutcasey.github.io/Maps/Compare_Indices.html)
+- [Compare IWI/PHWA Differences](https://troutcasey.github.io/Maps/Compare_Indices_11-8-21.html)
